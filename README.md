@@ -1,1 +1,1 @@
-	Project was programmed to control automatically and manually the home appliances while monitoring room temperature and light intensity.
+Project was programmed to control automatically and manually the home appliances while monitoring room temperature and light intensity.
